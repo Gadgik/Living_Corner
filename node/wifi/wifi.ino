@@ -5,7 +5,7 @@
 #define WIFI_SSID "*******"
 #define WIFI_PASS "******************"
 #define BOT_TOKEN "*************"
-#define CHAT_ID "2059227823"
+#define CHAT_ID "******"
 // переменная, в которую запишем ID сообщения   
 // с меню для дальнейшего редактирования 
 int32_t menuID = 0; 
