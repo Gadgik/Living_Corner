@@ -2,9 +2,9 @@
 #include <Wire.h>
 
 #define TRANS_ID 8
-#define WIFI_SSID "pixel_7"
-#define WIFI_PASS "9036240148"
-#define BOT_TOKEN "6581455945:AAEQHJXD-zuBxOz6R_E-dLZAptht0_IZSQA"
+#define WIFI_SSID "*******"
+#define WIFI_PASS "******************"
+#define BOT_TOKEN "*************"
 #define CHAT_ID "2059227823"
 // переменная, в которую запишем ID сообщения   
 // с меню для дальнейшего редактирования 
